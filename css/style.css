@@ -49,7 +49,7 @@ header .subtitle { margin: 0 0 20px; }
 p.contactinfo { margin: 0 0 10px; }
 p.lastcontactinfo { margin: 0 0 20px; }
 
-header img.headshot { display: block; width: 100%; border-radius: 2px; }
+header img.headshot { display: block; width: 70%; border-radius: 2px; }
 
 /* ---------- Main content ---------- */
 
@@ -98,7 +98,7 @@ footer {
   div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; }
   header { max-height: none; overflow: visible; }
-  header img.headshot { width: 220px; }
+  header img.headshot { width: 155px; }
   section {
     border: solid #e5e5e5;
     border-width: 1px 0;
