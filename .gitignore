@@ -1,0 +1,7 @@
+# Reference material and local tooling, not part of the site
+input/
+.claude/
+
+# Windows and Google Drive metadata
+desktop.ini
+Thumbs.db
